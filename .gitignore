@@ -1,5 +1,6 @@
 build  
- 
+pubspec.yaml
+news_app_news.iml
 mykey
 mykey.pub
 pubspec.lock
